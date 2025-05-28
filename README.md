@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Reetan Mohapatra</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
-<img align=“right” alt=“coding” width=“400” src=“￼”>
 
-<p align="left"> </p>
+
+
 
 - 🔭 I’m currently studing master of computer application [Disaster Relief Coordination System Live Link](https://disaster-relief-coordination-system-frontend.vercel.app)
 
